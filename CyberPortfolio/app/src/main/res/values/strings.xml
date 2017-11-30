@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CyberPortfolio</string>
+    <string name="cyberTiger_Title">Cyber Tiger</string>
+    <string name="title_activity_sketch_category">Sketches</string>
+
+    <string-array name="options">
+        <item>Sketches</item>
+        <item>Apps</item>
+        <item>Works in Progress</item>
+    </string-array>
+
+    <string name="favourite">Favourite</string>
+    <string name="favourites">Your favourite Sketches:</string>
+</resources>
